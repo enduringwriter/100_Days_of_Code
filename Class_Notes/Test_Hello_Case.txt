@@ -1,0 +1,5 @@
+# this file is used by the file: String_&_re_Modules_for_Case.py
+
+hello
+hola
+howdy

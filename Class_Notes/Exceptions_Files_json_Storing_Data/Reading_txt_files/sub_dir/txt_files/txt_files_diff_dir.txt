@@ -1,0 +1,10 @@
+# txt file in a different directory - relative path
+- Graduated from Texas A&M University - Chemistry
+- Completed an International Intellectual Property Program at University of Amsterdam - Copyright, Trademark, and Patent Law
+- Visited Seoul, S. Korea
+- Visited Beijing, China
+- Served in the US Army
+- Graduated from University of North Texas - Integrative Studies (Music, Business, and Creative Writing)
+- Artist of children's music
+- Writer of children's stories
+- Soon to complete a Data Science program at Codeup
